@@ -1,12 +1,17 @@
 ## Macropad
 
-The **Macropad** is a customizable button-based input device using an STM32 microcontroller. It allows the user to trigger key combinations, scripts, or macros by pressing physical buttons. It was designed for ergonomic desktop use, especially useful in productivity or gaming settings.
+This is a custom **Macropad** project powered by an **STM32** microcontroller. It mimics keyboard inputs for various shortcuts and macros via USB communication. Designed with a focus on low-level firmware and embedded systems experience.
 
 ### Features
-- Multiple tactile buttons mapped to different outputs
-- Flexible layout for customizing macros
-- Debouncing and reliable input handling
-- Potential future features: OLED display, rotary encoder
+- Keyboard HID support via STM32 USB peripheral
+
+- Fully programmable macros for media control, copy/paste, and other productivity tasks
+
+- Custom firmware logic written in C
+
+- Planned LED feedback system (future feature)
+
+- Modular design for easy expansion of key layout or functionality
 
 ### Demo
 [![Watch the Macropad demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)  
