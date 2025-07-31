@@ -12,5 +12,5 @@ The **Macropad** is a customizable button-based input device using an STM32 micr
 [![Watch the Macropad demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)  
 *Click the image to watch the demo on YouTube.*
 
-### 📝 Thought Process
+### Thought Process
 If you would like to see my thought process throughout creating this project, [**click here**](https://docs.google.com/document/d/1tiLBMQQ-8tPwJJhhNl51IhfM3LDAB0CuAEi3gg0x5Wo/edit?usp=sharing).
