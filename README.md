@@ -14,7 +14,7 @@ This is a custom **Macropad** project powered by an **STM32** microcontroller. I
 - Modular design for easy expansion of key layout or functionality
 
 ### Demo
-[![Watch the Macropad demo](https://img.youtube.com/vi/L8qQ8FkUgy8/0.jpg)](https://youtube.com/shorts/L8qQ8FkUgy8?feature=share)  
+[![Watch the Macropad demo](https://img.youtube.com/vi/L8qQ8FkUgy8/0.jpg)](https://youtube.com/shorts/qhUAhk-IGdo?si=j1De1VFsIKwv_QSu)  
 *Click the image to watch the demo on YouTube.*
 
 ### Thought Process
